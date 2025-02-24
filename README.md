@@ -22,7 +22,7 @@ TensorGO is a lightweight, modular deep learning framework written in Go. It pro
    
 2. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/TensorGO.git
+   git clone https://github.com/Arkay92/TensorGO.git
    cd TensorGO
    ```
    
