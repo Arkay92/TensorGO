@@ -1,0 +1,9 @@
+digraph G {
+  layer0 [label="Layer 0: leaky, neurons: 4"];
+  layer1 [label="Layer 1: leaky, neurons: 4"];
+  layer0 -> layer1;
+  layer2 [label="Layer 2: leaky, neurons: 4"];
+  layer1 -> layer2;
+  layer3 [label="Layer 3: sigmoid, neurons: 1"];
+  layer2 -> layer3;
+}

@@ -1,0 +1,4 @@
+Layer 0: leaky activation, 4 neurons
+Layer 1: leaky activation, 4 neurons
+Layer 2: leaky activation, 4 neurons
+Layer 3: sigmoid activation, 1 neurons
